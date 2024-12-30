@@ -8,6 +8,8 @@ The main utility of this mod is to have different save files based on different 
 
 Note: when first installing this mod you must manualy move your current save files to `BepInEx/saves` (where the `SavePath` config points to) if you wish to keep your old saves
 
+Note: this was only tested using the Gale mod manager, it should work with other mod managers but im not sure.
+
 ## Config
 
 The `SavePath` config option determines where to store the save files relative to the Bepinex folder, you can also provide a absolute path.
