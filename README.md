@@ -16,5 +16,7 @@ By default the saves are stored in `BepInEx/saves` but it can be changed in conf
 
 If your unsure where you set the save location you can check the console/log to see the absolute path of where it is stored.
 
+Note: the folowing characters are automatically escaped "[(.*?)]" therefor paths such as the Gale app data cannot be specified with the absolute path. (anyway why would you just use the default path)
+
 ## License
 This mod is licensed under the MIT license.
