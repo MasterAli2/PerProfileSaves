@@ -1,0 +1,9 @@
+{
+  "name": "PerProfileSaves",
+  "description": "A mod for Lethal Company that lets you modify the save location and therefor by default allows you to have different save files for each mod profile",
+  "website_url": "https://github.com/MasterAli2/PerProfileSaves",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
